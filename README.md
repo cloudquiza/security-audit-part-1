@@ -20,6 +20,50 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 ## Step 2 - Analyze the audit scope, goals, and risk assessment
 
+<details>
+<summary>Read the audit scope and goals, as well as the risk assessment your IT manager completed and sent to you as part of this security audit.</summary>
+<br>
+Hello!
+
+I have completed the audit scope and goals, as well as a risk assessment. At a high level, the main goals and risks are as follows:
+
+Goals:
+
+Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement concept of least permissions)
+
+Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks
+
+Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments
+
+To review the full report, read the Botium Toys: Audit scope and goals document
+
+Risks:
+
+Inadequate management of assets
+
+Proper controls are not in place
+
+May not be compliant with U.S. and international regulations and guidelines
+
+Current risk score is 8/10 (high), due to a lack of controls and adherence to compliance regulations and standards
+
+To review the complete list of assets and risks, read the Botium Toys: Risk assessment document 
+
+Thank you,
+Botium Toys IT Manager
+
+</details>
+
+---
+
+After you review the above audit scope, goals, and risk assessment, consider the following questions:
+
+- What are the biggest risks to the organization?
+
+- Which controls are most essential to implement immediately versus in the future?
+
+- Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
+
 ## Step 3 - Conduct the audit: Controls assessment
 
 [Controls assesment exam exemplar](https://github.com/cloudquiza/security-audit-1/blob/main/Controls%20assessment%20exemplar.pdf)
