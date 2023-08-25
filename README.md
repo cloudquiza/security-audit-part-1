@@ -26,4 +26,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 ## Step 4 - Conduct the audit: Compliance checklist
 
+[Compliance checklist exemplar](https://github.com/cloudquiza/security-audit-1/blob/main/Compliance%20checklist%20exemplar.pdf)
+
 ## Step 5 - Assess your activity
