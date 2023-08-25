@@ -22,6 +22,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 ## Step 3 - Conduct the audit: Controls assessment
 
+[Controls assesment exam examplar](https://github.com/cloudquiza/security-audit-1/blob/main/Controls%20assessment%20exemplar.pdf)
+
 ## Step 4 - Conduct the audit: Compliance checklist
 
 ## Step 5 - Assess your activity
