@@ -29,3 +29,13 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 [Compliance checklist exemplar](https://github.com/cloudquiza/security-audit-1/blob/main/Compliance%20checklist%20exemplar.pdf)
 
 ## Step 5 - Assess your activity
+
+- I reviewed the scope of the audit then considered risks to Botium Toys’ customers, employees, and assets. ✅
+
+- I selected controls. ✅
+
+- I rated each of the controls I selected to determine if they need to be implemented immediately or in the future. ✅
+  
+- I selected compliance regulations and standards that Botium Toys needs to adhere to. ✅
+  
+- I explained why Botium Toys needs to adhere to the selected compliance regulations and standards. ✅
