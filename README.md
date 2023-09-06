@@ -16,7 +16,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 [Botium Toys: Audit scope and goals](https://github.com/cloudquiza/security-audit-part-1/blob/main/Botium%20Toys_%20Audit%20scope%20and%20goals%20(1).pdf)
 
-[Botium Toys: Risk assessment](https://docs.google.com/document/d/1rdjLtrTQD7c8K3cUeKnrhyq3DzXpKNL9vdHI1T9Vu80/template/preview?resourcekey=0--N8L-3p4Hel22vaxVLjIOA)
+[Botium Toys: Risk assessment](https://github.com/cloudquiza/security-audit-part-1/blob/main/Botium%20Toys_%20Risk%20assessment.pdf)
 
 ## Step 2 - Analyze the audit scope, goals, and risk assessment
 
